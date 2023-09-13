@@ -1,0 +1,42 @@
+body {
+    margin: 0%
+}
+
+section {
+    background: rgb(238, 238, 238);
+    padding-top: 60px;
+}
+
+header {
+    text-align: center;
+}
+
+.box {
+    background-color: white;
+    width: 700px;
+    margin: auto;
+    margin-top: 10px;
+
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.header {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.header h2 {
+    margin: 0;
+    font-size: 20px;
+    padding-top: 12px;
+}
+
+.description {
+    padding: 15px;
+}
